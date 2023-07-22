@@ -4,7 +4,7 @@ Enhancement of Underwater Images using CLAHE and GAN
 
 CLAHE:Contrast Limited Adaptive Histogram Equalization & GAN: Generative Adaptive Network
 
- 	Worked with Aman Sheikh, Saurabh Shukla and Onkar Suryavanshi.
+ 	Worked with Rahul Shah, Saurabh Shukla and Onkar Suryavanshi.
 
 
 
